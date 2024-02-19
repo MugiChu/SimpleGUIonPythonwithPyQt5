@@ -1,0 +1,13 @@
+enum34==1.1.10
+netifaces==0.11.0
+psutil==5.9.8
+PyQt5==5.15.10
+PyQt5-Qt5==5.15.12
+PyQt5-sip==12.13.0
+pyserial==3.5
+pyspectator==1.2.2
+pythonping==1.1.4
+pyudev==0.24.1
+pyusb==1.2.1
+pyvalid==1.0.4
+six==1.16.0
